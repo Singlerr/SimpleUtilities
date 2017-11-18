@@ -10,13 +10,7 @@ public class SoleFinder<E>{
     private Integer from;
     private LinkedList<E> list;
     private Class<E> c;
-    public SoleFinder(int k,int i,Class<E> c){
-        if(k != 902){
-            throw new Error("Incorrect Access Key");
-        }
-        if(i != 302){
-            throw new Error("Incorrect Access Key");
-        }
+    public SoleFinder(Class<E> c){
         list = new LinkedList<E>();
         to = null;
         from = null;

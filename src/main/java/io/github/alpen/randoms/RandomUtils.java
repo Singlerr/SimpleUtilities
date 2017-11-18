@@ -12,8 +12,8 @@ public class RandomUtils {
     public static Random newRandomInstance(){
         return new Random();
     }
-    public static <E> SoleFinder<E> sole(Class<E> c){
-        SoleFinder<E> soleFinder = new SoleFinder<E>(902,302,c);
+    public static <E> SoleFinder<E> newSoleFinder(Class<E> c){
+        SoleFinder<E> soleFinder = new SoleFinder<E>(c);
         return soleFinder;
     }
 
