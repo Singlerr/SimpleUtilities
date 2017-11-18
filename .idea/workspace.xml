@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5a5a0fa-66cb-4431-b634-db77de8b5844" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/math/Equation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/math/EquationCalculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/math/MathHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/string/StringHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/system/SystemHelper.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/TestClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/d.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/io/github/alpen/TestClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/io/github/alpen/d.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/io/github/alpen/randoms/RandomUtils.class" afterPath="$PROJECT_DIR$/target/classes/io/github/alpen/randoms/RandomUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/io/github/alpen/randoms/classes/SoleFinder.class" afterPath="$PROJECT_DIR$/target/classes/io/github/alpen/randoms/classes/SoleFinder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/io/github/alpen/validations/Validate.class" afterPath="$PROJECT_DIR$/target/classes/io/github/alpen/validations/Validate.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/randoms/RandomUtils.java" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/randoms/RandomUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/randoms/classes/SoleFinder.java" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/randoms/classes/SoleFinder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/validations/Validate.java" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/validations/Validate.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -119,7 +102,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -280,6 +263,14 @@
       <option name="presentableId" value="Default" />
       <updated>1509792581351</updated>
     </task>
+    <task id="LOCAL-00001" summary="SNAPSHOT - 2">
+      <created>1511008488196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511008488197</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -315,6 +306,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SNAPSHOT - 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="SNAPSHOT - 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
