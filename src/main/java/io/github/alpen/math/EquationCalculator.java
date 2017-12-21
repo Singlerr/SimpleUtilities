@@ -5,9 +5,8 @@ import io.github.alpen.validations.Validate;
 
 import java.util.LinkedList;
 import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
-public class EquationCalculator implements Equation{
+public class EquationCalculator implements Equation {
     private LinkedList<Object> tree;
     private String expression;
     private String quantity;

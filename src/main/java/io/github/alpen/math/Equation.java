@@ -1,6 +1,5 @@
 package io.github.alpen.math;
 
-import java.util.LinkedList;
 import java.util.regex.Pattern;
 
 public interface Equation {

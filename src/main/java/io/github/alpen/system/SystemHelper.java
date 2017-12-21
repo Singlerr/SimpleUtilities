@@ -3,8 +3,6 @@ package io.github.alpen.system;
 import io.github.alpen.string.StringHelper;
 
 import java.util.ArrayList;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 public class SystemHelper {
 

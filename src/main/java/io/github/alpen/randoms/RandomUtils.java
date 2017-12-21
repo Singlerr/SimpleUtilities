@@ -2,10 +2,7 @@ package io.github.alpen.randoms;
 
 
 import io.github.alpen.randoms.classes.SoleFinder;
-import io.github.alpen.validations.Validate;
 
-import java.util.LinkedList;
-import java.util.Queue;
 import java.util.Random;
 
 public class RandomUtils {
