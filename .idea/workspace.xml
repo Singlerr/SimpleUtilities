@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5a5a0fa-66cb-4431-b634-db77de8b5844" name="Default" comment="SNAPSHOT - 3">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/alternatives/C.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/alternatives/DirtyHashMap.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/alternatives/JavaScript.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/alternatives/SimpleHashMap.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/alternatives/interfaces/HashMap.java" />
+    <list default="true" id="f5a5a0fa-66cb-4431-b634-db77de8b5844" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Utilities.iml" afterPath="$PROJECT_DIR$/Utilities.iml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/Main.java" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/math/Equation.java" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/math/Equation.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/math/EquationCalculator.java" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/math/EquationCalculator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/randoms/RandomUtils.java" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/randoms/RandomUtils.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/system/SystemHelper.java" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/system/SystemHelper.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -529,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512994734380</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SNAPSHOT - 3">
+      <created>1513861385059</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1513861385059</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
